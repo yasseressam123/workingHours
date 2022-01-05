@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "yasser@gmail.com",
+      "password": "1234",
+      "data": [
+        {
+          "startTime": "10:37",
+          "endTime": "22:37",
+          "break": {
+            "startTime": 0,
+            "endTime": 0
+          },
+          "totalWorkingHours": "12.00"
+        },
+        {
+          "startTime": "10:38",
+          "endTime": "12:38",
+          "break": {
+            "startTime": 0,
+            "endTime": 0
+          },
+          "totalWorkingHours": "2.00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "email": "ahmed@gmail.com",
+      "password": "1234",
+      "data": []
+    }
+  ]
+}
